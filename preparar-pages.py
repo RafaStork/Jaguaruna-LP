@@ -14,7 +14,7 @@ if out == source or source in out.parents and out.name != '_site':
     raise SystemExit('Use uma pasta de saída separada, ou _site.')
 out.mkdir(parents=True, exist_ok=False)
 old = 'https://jaguaruna-321-modular.espa-o-de-tr-3944.chatgpt.site'
-allowed = {'assets', 'videos', 'chales', 'chunks', 'index.html', '404.html', 'app.js', 'app.js.LEGAL.txt', 'styles.css', 'sitemap.xml', 'robots.txt', 'llms.txt', '.nojekyll'}
+allowed = {'assets', 'videos', 'chales', 'catalogo', 'chunks', 'index.html', '404.html', 'app.js', 'app.js.LEGAL.txt', 'styles.css', 'sitemap.xml', 'robots.txt', 'llms.txt', '.nojekyll'}
 for entry in source.iterdir():
     if entry.name not in allowed:
         continue

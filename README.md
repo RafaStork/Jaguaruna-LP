@@ -36,3 +36,7 @@ Abra `http://localhost:8000`. A pasta `_site` deve estar ausente antes de execut
 - https://github.com/actions/starter-workflows/blob/main/pages/static.yml
 
 Pacote exportado em 15/09/2026. O site publicado anteriormente permanece no endereço original; esta pasta é uma cópia independente para sua hospedagem.
+
+## Transições e catálogo
+
+A navegação entre páginas usa um overlay com a marca. Os filtros do catálogo usam Swup Fragment Plugin e substituem apenas os resultados e os controles, preservando a página. As categorias têm endereços próprios em `catalogo/`. Envie também essa pasta e mantenha `preparar-pages.py` atualizado.
