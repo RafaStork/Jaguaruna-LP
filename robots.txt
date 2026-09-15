@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jaguaruna-321-modular.espa-o-de-tr-3944.chatgpt.site/sitemap.xml
