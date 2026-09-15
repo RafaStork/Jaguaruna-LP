@@ -10,24 +10,24 @@
 - [Localização](https://www.google.com/maps/place/321+Modular+Jaguaruna/@-28.600608,-49.0530561,967m/data=!3m2!1e3!4b1!4m6!3m5!1s0x952167e4e63e66af:0xe13f0a3547b2e996!8m2!3d-28.600608!4d-49.0504812!16s%2Fg%2F11yk74mqk9)
 
 ## Catálogo
-- [MODELO 01A - 01A](https://jaguaruna.321modular.com.br/chales/01a-standard-a-frame/): 38,19 m²; linha A-Frame; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 01C - 01C](https://jaguaruna.321modular.com.br/chales/01c-standard-cabana/): 40,59 m²; linha Cabana; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 02A - 02A](https://jaguaruna.321modular.com.br/chales/02a-lumina-a-frame/): 44,94 m²; linha A-Frame; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 02C - 02C](https://jaguaruna.321modular.com.br/chales/02c-lumina-cabana/): 47,34 m²; linha Cabana; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 03A - 03A](https://jaguaruna.321modular.com.br/chales/03a-piramide-a-frame/): 46,79 m²; linha A-Frame; 2 quartos (incluindo mezanino); 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
-- [MODELO 03C - 03C](https://jaguaruna.321modular.com.br/chales/03c-piramide-cabana/): 50,19 m²; linha Cabana; 2 quartos (incluindo mezanino); 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
-- [MODELO 04A - 04A](https://jaguaruna.321modular.com.br/chales/04a-piramide-plus-a-frame/): 53,54 m²; linha A-Frame; 2 quartos (incluindo mezanino); 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
-- [MODELO 04C - 04C](https://jaguaruna.321modular.com.br/chales/04c-piramide-plus-cabana/): 56,94 m²; linha Cabana; 2 quartos (incluindo mezanino); 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
-- [MODELO 05A - 05A](https://jaguaruna.321modular.com.br/chales/05a-familia-a-frame/): 58,44 m²; linha A-Frame; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 05C - 05C](https://jaguaruna.321modular.com.br/chales/05c-familia-cabana/): 60,84 m²; linha Cabana; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 06A - 06A](https://jaguaruna.321modular.com.br/chales/06a-latus-plus-a-frame/): 51,69 m²; linha A-Frame; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 06C - 06C](https://jaguaruna.321modular.com.br/chales/06c-latus-plus-cabana/): 54,09 m²; linha Cabana; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 07A - 07A](https://jaguaruna.321modular.com.br/chales/07a-master-plus-a-frame/): 78,69 m²; linha A-Frame; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 07C - 07C](https://jaguaruna.321modular.com.br/chales/07c-master-plus-cabana/): 81,09 m²; linha Cabana; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 08A - 08A](https://jaguaruna.321modular.com.br/chales/08a-magnus-a-frame/): 85,44 m²; linha A-Frame; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 08C - 08C](https://jaguaruna.321modular.com.br/chales/08c-magnus-cabana/): 87,84 m²; linha Cabana; 1 quarto (incluindo mezanino); 1 banheiro; 1 quarto no mezanino.
-- [MODELO 09 - 09](https://jaguaruna.321modular.com.br/chales/09-domus/): 13,50 m²; linha Domus; 0 quartos (incluindo mezanino); 1 banheiro; Ambiente integrado, sem quarto separado.
-- [MODELO 10 - 10](https://jaguaruna.321modular.com.br/chales/10-domus-plus/): 22,50 m²; linha Domus; 0 quartos (incluindo mezanino); 1 banheiro; Ambiente integrado, sem quarto separado.
+- [MODELO 01A - 01A](https://jaguaruna.321modular.com.br/chales/01a-standard-a-frame/): 38,19 m²; linha A-Frame; 1 quarto; 1 banheiro; 1 quarto no mezanino.
+- [MODELO 01C - 01C](https://jaguaruna.321modular.com.br/chales/01c-standard-cabana/): 40,59 m²; linha Cabana; 1 quarto; 1 banheiro; 1 quarto no mezanino.
+- [MODELO 02A - 02A](https://jaguaruna.321modular.com.br/chales/02a-lumina-a-frame/): 44,94 m²; linha A-Frame; 1 quarto; 1 banheiro; 1 quarto no mezanino.
+- [MODELO 02C - 02C](https://jaguaruna.321modular.com.br/chales/02c-lumina-cabana/): 47,34 m²; linha Cabana; 1 quarto; 1 banheiro; 1 quarto no mezanino.
+- [MODELO 03A - 03A](https://jaguaruna.321modular.com.br/chales/03a-piramide-a-frame/): 46,79 m²; linha A-Frame; 2 quartos; 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
+- [MODELO 03C - 03C](https://jaguaruna.321modular.com.br/chales/03c-piramide-cabana/): 50,19 m²; linha Cabana; 2 quartos; 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
+- [MODELO 04A - 04A](https://jaguaruna.321modular.com.br/chales/04a-piramide-plus-a-frame/): 53,54 m²; linha A-Frame; 2 quartos; 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
+- [MODELO 04C - 04C](https://jaguaruna.321modular.com.br/chales/04c-piramide-plus-cabana/): 56,94 m²; linha Cabana; 2 quartos; 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
+- [MODELO 05A - 05A](https://jaguaruna.321modular.com.br/chales/05a-familia-a-frame/): 58,44 m²; linha A-Frame; 1 quarto; 1 banheiro; 1 quarto no mezanino.
+- [MODELO 05C - 05C](https://jaguaruna.321modular.com.br/chales/05c-familia-cabana/): 60,84 m²; linha Cabana; 1 quarto; 1 banheiro; 1 quarto no mezanino.
+- [MODELO 06A - 06A](https://jaguaruna.321modular.com.br/chales/06a-latus-plus-a-frame/): 51,69 m²; linha A-Frame; 1 quarto; 1 banheiro; 1 quarto no mezanino.
+- [MODELO 06C - 06C](https://jaguaruna.321modular.com.br/chales/06c-latus-plus-cabana/): 54,09 m²; linha Cabana; 1 quarto; 1 banheiro; 1 quarto no mezanino.
+- [MODELO 07A - 07A](https://jaguaruna.321modular.com.br/chales/07a-master-plus-a-frame/): 78,69 m²; linha A-Frame; 2 quartos; 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
+- [MODELO 07C - 07C](https://jaguaruna.321modular.com.br/chales/07c-master-plus-cabana/): 81,09 m²; linha Cabana; 2 quartos; 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
+- [MODELO 08A - 08A](https://jaguaruna.321modular.com.br/chales/08a-magnus-a-frame/): 85,44 m²; linha A-Frame; 2 quartos; 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
+- [MODELO 08C - 08C](https://jaguaruna.321modular.com.br/chales/08c-magnus-cabana/): 87,84 m²; linha Cabana; 2 quartos; 1 banheiro; 1 quarto térreo e 1 quarto no mezanino.
+- [MODELO 09 - 09](https://jaguaruna.321modular.com.br/chales/09-domus/): 13,50 m²; linha Domus; 1 quarto; 1 banheiro; 1 quarto integrado ao ambiente.
+- [MODELO 10 - 10](https://jaguaruna.321modular.com.br/chales/10-domus-plus/): 22,50 m²; linha Domus; 1 quarto; 1 banheiro; 1 quarto integrado ao ambiente.
 
 ## Preços e escopo
 Todos os preços exibidos são FICTÍCIOS, ilustrativos, e não devem ser citados como ofertas comerciais. Consulte a equipe para valores reais.
