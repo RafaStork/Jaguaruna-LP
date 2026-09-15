@@ -11,7 +11,7 @@ Esta pasta contém o site completo: 18 modelos, imagens WebP, plantas, vídeos, 
 5. Abra **Actions > Publicar site no GitHub Pages > Run workflow**. Nas próximas alterações, enviar um commit para `main` publica automaticamente.
 6. Quando terminar, abra o endereço informado em **Settings > Pages**.
 
-A publicação configura automaticamente os caminhos para `https://usuario.github.io/repositorio/`, para um site na raiz ou para o domínio personalizado definido no GitHub Pages. Também atualiza canonical, dados estruturados, sitemap e llms.txt, evitando referências ao endereço antigo do site. Não selecione “Deploy from a branch” para este pacote: o workflow precisa preparar os caminhos primeiro.
+O pacote está configurado para o domínio oficial `https://jaguaruna.321modular.com.br/`. Também atualiza canonical, dados estruturados, sitemap e llms.txt, evitando referências ao endereço antigo do site. Não selecione “Deploy from a branch” para este pacote: o workflow precisa preparar os caminhos primeiro.
 
 ## Editar conteúdo
 
@@ -40,3 +40,7 @@ Pacote exportado em 15/09/2026. O site publicado anteriormente permanece no ende
 ## Transições e catálogo
 
 A navegação entre páginas usa um overlay com a marca. Os filtros do catálogo usam Swup Fragment Plugin e substituem apenas os resultados e os controles, preservando a página. As categorias têm endereços próprios em `catalogo/`. Envie também essa pasta e mantenha `preparar-pages.py` atualizado.
+
+## Google e domínio oficial
+
+Leia `COMO-APARECER-NO-GOOGLE.md` para verificar a propriedade, enviar o sitemap e solicitar indexação.
