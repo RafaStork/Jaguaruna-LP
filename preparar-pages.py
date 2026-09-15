@@ -1,6 +1,7 @@
 from pathlib import Path
 from urllib.parse import urlparse
 import os, re, shutil, sys
+if hasattr(sys.stdout, "reconfigure"): sys.stdout.reconfigure(encoding="utf-8")
 
 # A URL vem do GitHub Pages; também aceita URL e pasta de saída como argumentos.
 url = (sys.argv[1] if len(sys.argv) > 1 else os.environ.get('PAGES_URL', '')).rstrip('/')
@@ -26,7 +27,7 @@ for p in out.rglob('*'):
     text = p.read_text(encoding='utf-8')
     if p.suffix == '.html':
         # Links, imagens, vídeos, miniaturas, srcset e JSON das galerias.
-        text = re.sub(r'((?:href|src|poster|data-image)=")(/(?!/)[^"]*)', lambda m: m[1] + base + m[2], text)
+        text = re.sub(r'((?:href|src|poster|data-image|data-src)=")(/(?!/)[^"]*)', lambda m: m[1] + base + m[2], text)
         text = re.sub(r'(srcset=")([^"]+)', lambda m: m[1] + re.sub(r'(^|,\s*)(/)', lambda n: n[1] + base + n[2], m[2]), text)
         text = text.replace('&quot;/assets/', '&quot;' + base + '/assets/')
     if p.suffix == '.css':
