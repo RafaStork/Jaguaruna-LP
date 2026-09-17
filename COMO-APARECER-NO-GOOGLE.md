@@ -6,7 +6,7 @@ Domínio oficial: https://jaguaruna.321modular.com.br/
 
 Envie o conteúdo atualizado desta pasta ao repositório, incluindo `.github`, `CNAME`, `preparar-pages.py`, as páginas HTML e os arquivos de SEO. Aguarde o workflow concluir. Em Settings > Pages, mantenha o domínio personalizado `jaguaruna.321modular.com.br` e HTTPS habilitado. O workflow usa este domínio como URL oficial.
 
-Foram atualizados canonical (endereço preferido de cada página), Open Graph, dados estruturados de empresa e modelos, sitemap, robots.txt e llms.txt. O sitemap contém a página inicial e os 18 modelos. As páginas de categoria são variações do catálogo e apontam para a inicial como canonical. A página 404 tem noindex.
+Foram atualizados canonical (endereço preferido de cada página), Open Graph, dados estruturados de empresa e modelos, sitemap, robots.txt e llms.txt. O sitemap contém a página inicial e os 18 modelos. As páginas de categoria possuem títulos, descrições e endereços canônicos próprios e fazem parte do sitemap. A página 404 tem noindex.
 
 ## 2. Verificar no Google Search Console
 

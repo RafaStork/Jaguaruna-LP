@@ -1,4 +1,4 @@
-# 321 Modular Jaguaruna — publicação V1.2.0
+# 321 Modular Jaguaruna — publicação V1.3.0
 
 Esta pasta é uma entrega estática gerada. Envie seu conteúdo para a raiz do repositório GitHub Pages. Não envie a pasta externa que a contém.
 
@@ -9,3 +9,4 @@ Em Settings > Pages, use GitHub Actions. O workflow incluído prepara os caminho
 Para modificar textos, modelos ou estilos, use a fonte em `projetos/jaguaruna` no workspace original. Execute o build, confira a prévia e rode `python scripts/export.py`. Este espelho não contém código-fonte nem backups.
 
 O crédito de autoria está em `assets/brand/rafael-stork.svg`. A entrega completa é mantida na pasta `versão atual`, sem pacotes ZIP.
+
